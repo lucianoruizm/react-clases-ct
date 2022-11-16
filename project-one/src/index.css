@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+:root{
+    --main: #d93636;
+    --secondary: #d93636;
+    --clear: #fff;
+    --card-background: #f2f2f0;
+    --text: #403f37;
+    --container: #bfbfbf;
+    --mycolor: #da7046;
+    --white: #ffff;
+}
+body{
+    font-family: sans-serif;
+    background-color: #403f37;
+}
